@@ -4,7 +4,6 @@
       <section class="section split left">
         <section class="section centered">
           <h1 class="title is-1 j-title text-outline">Jarrett Andrulis</h1>
-          <h2 class="subtitle is-4 j-subtitle text-outline">Just a programmer from Chicago</h2>
         </section>
     </section>
   </div>

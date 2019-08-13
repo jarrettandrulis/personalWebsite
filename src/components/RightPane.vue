@@ -33,6 +33,8 @@
             <p class="is-size-7 r-subtitle"> B.S. Computer Science | Certificate in Entrepreneurship | 2016-2020</p>
             <p class="is-size-5 r-subtitle"><b><a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2019-07-03&ci=AWS00938998">AWS Certified Solution's Architect - Associate</a></b></p>
             <p class="is-size-7 r-subtitle"> Valid July 2019 - July 2022</p>
+            <p class="is-size-5 r-subtitle"><b><a href="https://www.certmetrics.com/amazon/public/badge.aspx?i=9&t=c&d=2019-08-12&ci=AWS00938998">AWS Certified Cloud Practitioner </a></b></p>
+            <p class="is-size-7 r-subtitle"> Valid August 2019 - August 2022</p>
           </section>
 
         </section>
